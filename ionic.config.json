@@ -1,0 +1,7 @@
+{
+  "name": "QuakePro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
